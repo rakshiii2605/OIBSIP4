@@ -1,7 +1,7 @@
 # 🧾 Online Examination System  
 ### 💼 Internship Project — OASIS INFOBYTE (Task 4)
 
-![Online Examination Banner](https://github.com/yourusername/OIBSIP4/blob/main/online_exam.jpg)
+![Online Examination Banner](https://github.com/rakshiii2605/OIBSIP4/blob/main/Online%20exam.jpg)
 
 ---
 
